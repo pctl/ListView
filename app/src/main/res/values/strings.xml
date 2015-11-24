@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Material1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Emerson</string>
+    <string name="description"> Allow your qualifications to be recognized globally, and put you on the path of achieving a
+Bachelors or Masters in Business.</string>
+</resources>
